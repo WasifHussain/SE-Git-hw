@@ -28,6 +28,7 @@ python apple.py
 | `main` | Stable, reviewed code |
 | `feature-1` | Initial feature branch adding `apple.py` |
 | `wasif-issue` | Branch used to resolve the loop-related issue, merged via PR #6 |
+| `sam-branch` | Branch used by Samuel to do his tasks. |
 
 ## Workflow Summary
 
@@ -43,7 +44,7 @@ python apple.py
 | Issue | Assigned To | Resolution |
 |---|---|---|
 | Add a loop to print a message multiple times | Wasif Hussain | Resolved in PR #6 (`wasif-issue` branch) by adding a `for` loop to `hello-world.py`, merged into `main` |
-| Add if/else / documentation improvement to `apple.py` | Samuel Twamasi | Reviewed and merged after collaborator feedback |
+| Add if/else check to hello-world.py | Samuel Twamasi | Resolved in PR #4 by adding a conditional statement so the script's output depends on a simple condition, closed via commit referencing the issue |
 
 ## Collaboration
 
