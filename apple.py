@@ -1,1 +1,2 @@
-print("I love banana.")
+for i in range(3):
+    print("I eat apples.")
